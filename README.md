@@ -1,5 +1,5 @@
 # Gustavo Lösch do Amaral
-gustavolosch@icloud.com | [@gustavo_losch](instagram.com/gustavo_losch)
+gustavolosch@icloud.com | [Currículo Lattes](http://lattes.cnpq.br/7088557943649317) | [LinkedIn](https://www.linkedin.com/in/gustavo-losch/)
 
-- Atualmente estudando Ciência de Dados e Inteligência Artificial na PUCRS.
+- Atualmente estudando Ciência de Dados e Inteligência Artificial na PUCRS e trabalhando no GMAP-CD (Grupo de Modelagem de Aplicações Paralelas em Ciência de Dados).
 - Defendo o compartilhamento de código como uma maneira de promover o crescimento da comunidade. Por isso, mantenho meus projetos de código aberto disponíveis gratuitamente. 
